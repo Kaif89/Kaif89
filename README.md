@@ -16,6 +16,7 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **kk4795989@gmail.com**
+- <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
