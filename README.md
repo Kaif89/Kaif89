@@ -15,19 +15,14 @@
 
 <<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /> >
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I'm mostly interested in making developer life easier  
 
-- 🌱 I’m currently learning **frontend**
 
-- 👯 I’m looking to collaborate on **full stack projects**
+- ⚡ Fun fact: I use tabs over spaces  
 
-- 🤝 I’m looking for help with **with my upcoming projects**
 
-- 👨‍💻 All of my projects are available at [in my repository](in my repository)
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **kk4795989@gmail.com**
+<br/>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
