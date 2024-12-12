@@ -2,12 +2,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="500" style="width: 100%" />
 
 
+</div>  
+
+### <div align="center">I'm kaif, a frontend dev, cracker and cyber enthusiast, Working for open-source community since started 🚀</div> 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="right" style="width: 50%" />
+
+<br/> 
+  
 
 
-<h1 align="center">Hi 👋, I'm kaif</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaif89&label=Profile%20views&color=0e75b6&style=flat" alt="kaif89" /> </p>
 
 <<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /> >
 
