@@ -9,7 +9,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="right" style="width: 50%" />
 
 <br/> 
-  
+
+  ![](https://komarev.com/ghpvc/?username=Kaif89&style=for-the-badge)
 
 - 🔭 I'm mostly interested in making developer life easier  
 
