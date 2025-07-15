@@ -32,7 +32,7 @@
 
 
 ## Github Stats  
-![kaif89's Stats](https://github-readme-stats.vercel.app/api?username=kaif89&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![kaif89's Stats](https://github-readme-stats.vercel.app/api?username=kaif89&theme=monokai&show_icons=true&hide_border=true&count_private=false)
 
 
 
