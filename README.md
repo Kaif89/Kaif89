@@ -32,7 +32,7 @@
 
 
 ## Github Stats  
-![kaif89's Stats](https://github-readme-stats.vercel.app/api?username=kaif89&theme=dark&show_icons=true&hide_border=false&count_private=false)
+![kaif89's Stats](https://github-readme-stats.vercel.app/api?username=kaif89&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif89&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
