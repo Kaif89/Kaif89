@@ -34,7 +34,7 @@
 ## Github Stats  
 <img src="https://streak-stats.demolab.com?user=kaif89&theme=dark&hide_border=true" alt="kaif89's GitHub Stats" />
 
-![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif89&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif89&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
