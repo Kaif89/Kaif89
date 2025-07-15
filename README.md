@@ -33,6 +33,8 @@
 
 ## Github Stats  
 ![kaif89's Stats](https://github-readme-stats.vercel.app/api?username=kaif89&theme=monokai&show_icons=true&hide_border=true&count_private=false)
+![kaif89's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaif89&theme=dark&hide_border=false)
+![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif89&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
 
