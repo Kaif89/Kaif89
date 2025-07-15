@@ -33,6 +33,7 @@
 
 ## Github Stats  
 ![kaif89's Stats](https://github-readme-stats.vercel.app/api?username=kaif89&theme=monokai&show_icons=true&hide_border=true&count_private=false)
+<img src="https://github.com/kaif89/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 
 
