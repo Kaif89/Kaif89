@@ -38,11 +38,6 @@
 ![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif89&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<h1 align='left'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
-![water](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
