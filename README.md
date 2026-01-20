@@ -33,6 +33,7 @@
 
 ## Github Stats  
 
+![Kaif89 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaif89 &theme=prussian&hide_border=true)
 
 ![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif89&theme=dark&hide__all_commits=false&count_private=false&layout=compact)
 
