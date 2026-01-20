@@ -33,7 +33,6 @@
 
 ## Github Stats  
 
-<img align="center" src="https://streak-stats.demolab.com?user=kaif89&theme=dark&hide_border=true" alt="kaif89's GitHub Stats" />
 
 ![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif89&theme=dark&hide__all_commits=false&count_private=false&layout=compact)
 
