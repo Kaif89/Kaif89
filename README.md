@@ -35,4 +35,6 @@
 
 ![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif89&theme=dark&hide__all_commits=false&count_private=false&layout=compact)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
