@@ -26,10 +26,6 @@
 <a href="https://instagram.com/pvt.lutera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvt.lutera" height="30" width="40" /></a>
 </p>
 
-## Github Stats  
-
-![kaif89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif89&theme=dark&hide__all_commits=false&count_private=false&layout=compact)
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
